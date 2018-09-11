@@ -1,0 +1,10 @@
+.picture {
+    background-color: yellow;
+    height: 100px;
+    margin: 15px;
+}
+
+.clicked {
+    background-color: green;
+
+}
